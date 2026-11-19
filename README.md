@@ -49,16 +49,6 @@ A personal portfolio showcasing my skills, projects, education and professional 
 
 [View Portfolio Repository](https://github.com/jaslinmary/Jaslin-portfolio)
 
-### 3. Sweetina – E-Commerce Web Application
-A Python-based e-commerce application focused on product management, shopping experiences and database integration.
-
-**Technologies:** Python, FastAPI, SQLModel, SQLite, HTML, CSS and JavaScript.
-
-### 4. Jaslin AI – Personal AI Assistant
-A personal AI assistant project designed to explore AI-powered chat, learning assistance and productivity features.
-
-**Technologies:** Python and FastAPI.
-
 ## 🎓 Education
 
 **Bachelor of Engineering – Computer Science and Engineering**
